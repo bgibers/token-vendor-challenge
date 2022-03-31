@@ -1,4 +1,4 @@
-# 🏗 scaffold-eth | 🏰 BuidlGuidl
+# 🏗 Completed challenge by yours truley 
 
 ## 🚩 Challenge 2: 🏵 Token Vendor 🤖
 
